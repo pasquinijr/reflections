@@ -34,3 +34,8 @@ branches.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+    Automatic merging saves lots of time but might create a bug by merging conflicting
+pieces of code. Manual merging takes some time but allows the programmer to merge
+the correct pieces of conflicting code.
+
